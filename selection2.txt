@@ -1,0 +1,1 @@
+However, after checking the violations for each of these predictors using residual plots and VIF tests, it was decided that the model could actually be improved by scaling the model and dropping predictor Height: Sex. These changes are reflected in the final model.
