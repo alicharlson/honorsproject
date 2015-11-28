@@ -1,0 +1,10 @@
+The results of the model show that size of the brain 
+can best be explained with information about Height and Sex, 
+as well as also some influence from the Performance Intelligence Quotient.
+For the most part this aligns with theory, as height is a common characteristic
+considered to have a relationship with brain size. The most interesting result of the model is 
+ the significance of the Performance Intelligence Quotient. Full Scale Intelligence and 
+ Verbal Intelligence were found to not have a significant effect on the model, however interaction
+ terms for PIQ: Height and PIQ: Sex seem to be relevant to the model, and further research into this
+ specific type of intelligence could be interesting. The relationship between the physical aspects of 
+ the brain and factors influenceing it is certainly a research question that can be analyzed from many different sides. 
