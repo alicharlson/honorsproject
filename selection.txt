@@ -1,0 +1,1 @@
+In order to create the most effective model, many model selection techniques were used to choose predictors. Using a combination of stepwise regression and all subsets regression, a potential model was selected:  
