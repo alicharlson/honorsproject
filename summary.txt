@@ -1,0 +1,2 @@
+The final model for explaining brain size is:
+	MRI Count ~ 8.79 + .25(Height) + .57(Sex) + .21(PIQ) + .01(PIQ:Height) + .12(PIQ:Sex).
