@@ -1,0 +1,1 @@
+MRI Count ~ PIQ + Height + Sex + PIQ:Height + PIQ:Sex + Height: Sex.
